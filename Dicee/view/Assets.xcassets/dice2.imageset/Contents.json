@@ -6,12 +6,11 @@
     },
     {
       "idiom" : "universal",
-      "filename" : "dice2@2x.png",
+      "filename" : "002-dice-1.png",
       "scale" : "2x"
     },
     {
       "idiom" : "universal",
-      "filename" : "dice2@3x.png",
       "scale" : "3x"
     }
   ],
