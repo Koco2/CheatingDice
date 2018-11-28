@@ -38,7 +38,7 @@
 		6647BFE41FA064AA00DB3082 = {
 			isa = PBXGroup;
 			children = (
-				6647BFEF1FA064AA00DB3082 /* Dicee */,
+				6647BFEF1FA064AA00DB3082 /* CheatingDice */,
 				6647BFEE1FA064AA00DB3082 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -51,7 +51,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		6647BFEF1FA064AA00DB3082 /* Dicee */ = {
+		6647BFEF1FA064AA00DB3082 /* CheatingDice */ = {
 			isa = PBXGroup;
 			children = (
 				6647BFFC1FA064AA00DB3082 /* Info.plist */,
@@ -59,7 +59,7 @@
 				6647BFF21FA064AA00DB3082 /* ViewController.swift */,
 				669668E81FE724F500716F47 /* view */,
 			);
-			path = Dicee;
+			path = CheatingDice;
 			sourceTree = "<group>";
 		};
 		669668E81FE724F500716F47 /* view */ = {
@@ -288,10 +288,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3434CZ5U2F;
-				INFOPLIST_FILE = Dicee/Info.plist;
+				INFOPLIST_FILE = CheatingDice/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ChenWangStudio.Dicee;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ChenWangStudio.CheatingDice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -304,10 +304,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3434CZ5U2F;
-				INFOPLIST_FILE = Dicee/Info.plist;
+				INFOPLIST_FILE = CheatingDice/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ChenWangStudio.Dicee;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ChenWangStudio.CheatingDice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
