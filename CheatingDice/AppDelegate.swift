@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Dicee
+//  CheatingDice
 //
 //  Created by Chen Wang on 10/24/17.
 //  Copyright © 2017 Chen's studio. All rights reserved.
